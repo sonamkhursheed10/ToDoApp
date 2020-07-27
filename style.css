@@ -1,0 +1,43 @@
+
+#list li{
+    list-style: none;
+    margin-top: 100px;
+    text-decoration: none;
+    border-bottom: 2px solid white;
+    color:white;
+    text-align: center;
+    font-size:30px;
+}
+.btn{
+  
+    width: 70px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: small;
+    color: white !important;
+    float: right;
+    text-align: center;
+}
+.btn:hover{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: 900;
+
+}
+#butn{
+    background-color:blueviolet; 
+    height: 50px; 
+    width: 100px;
+    font-size: medium;
+    color: white;
+    margin-left: 30px;
+    border:  3px solid mistyrose;
+    border-radius: 10px;
+}
+#butn:hover{
+    font-size: medium;
+    border: 3px solid mistyrose;
+    border-radius: 10px;
+  font-weight: 800;
+}
